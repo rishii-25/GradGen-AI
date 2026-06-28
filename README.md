@@ -1,73 +1,107 @@
-# React + TypeScript + Vite
+# 🎓 GradGen AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+### 🚀 Your All-in-One AI Toolkit for Students
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGPA, and much more — all in one place.
 
-## React Compiler
+🌐 **Live Demo:** https://smscggbptt6ke.kimi.page
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+![Made with AI](https://img.shields.io/badge/Powered%20By-AI-blue?style=for-the-badge)
+![Students](https://img.shields.io/badge/Built%20For-Students-success?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-purple?style=for-the-badge)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+</div>
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# 📖 About
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+**GradGen AI** is an intelligent student productivity platform designed to simplify academics, placements, and project work using Artificial Intelligence.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Instead of using multiple websites, students can access essential AI-powered tools from a single dashboard.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Whether you're creating a resume, writing a project abstract, generating presentation content, or calculating your CGPA, GradGen AI helps you accomplish tasks quickly and efficiently.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
+
+# ✨ Features
+
+## 📄 AI Resume Generator
+Generate professional ATS-friendly resumes in seconds.
+
+---
+
+## 💼 LinkedIn Bio Generator
+Create impressive LinkedIn headlines and professional summaries.
+
+---
+
+## 📊 PPT Content Generator
+Generate well-structured presentation content for seminars, projects, and academic topics.
+
+---
+
+## 🎯 Project Abstract Generator
+Instantly create concise and professional project abstracts.
+
+---
+
+## 🎓 CGPA Calculator
+Calculate semester and cumulative CGPA with ease.
+
+---
+
+# 🚀 Upcoming Features
+
+- ✅ ATS Resume Checker
+- 🎤 AI Mock Interview
+- 📚 AI Notes Generator
+- 📄 PDF Summarizer
+- 🧠 Quiz Generator
+- 💌 Cover Letter Generator
+- 📁 Project Report Generator
+- 🎯 Viva Question Generator
+- 🌐 Portfolio Website Generator
+- 💻 GitHub README Generator
+- 📈 Career Roadmap Generator
+- 🤖 AI Study Planner
+
+---
+
+# 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- AI APIs
+- Responsive UI
+
+---
+
+# 🌟 Why GradGen AI?
+
+✔ Multiple AI tools in one platform
+
+✔ Saves time for students
+
+✔ Placement-focused utilities
+
+✔ Academic productivity tools
+
+✔ Clean and responsive interface
+
+✔ Easy to use
+
+✔ Fast AI-powered generation
+
+---
+
+---
+
+
+
