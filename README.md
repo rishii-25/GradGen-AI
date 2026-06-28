@@ -6,7 +6,7 @@
 
 Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGPA, and much more — all in one place.
 
-🌐 **Live Demo:** https://smscggbptt6ke.kimi.page
+🌐 **Live Demo:**  https://grad-gen-ai.vercel.app/
 
 ---
 
