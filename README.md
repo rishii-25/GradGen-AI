@@ -4,6 +4,8 @@
 
 ### 🚀 Your All-in-One AI Toolkit for Students
 
+> **🚧 Note:** GradGen AI is an actively developed project. New features, UI enhancements, and AI-powered tools are continuously being added. While the current version is fully functional, this repository will be updated regularly as the platform evolves into a complete AI toolkit for students.
+
 Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGPA, and much more — all in one place.
 
 🌐 **Live Demo:**  https://grad-gen-ai.vercel.app/
@@ -18,14 +20,6 @@ Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGP
 </div>
 
 ---
-
-## 🚧 Project Status
-
-**GradGen AI is currently under active development.**
-
-The platform is continuously evolving with new AI-powered tools and features to provide engineering students with a comprehensive academic and career assistance platform. Existing functionalities are fully operational, while additional modules and enhancements are being developed and will be released in future updates.
-
-Stay tuned for upcoming features such as AI Mock Interviews, ATS Resume Checker, PDF Summarizer, Study Planner, Portfolio Generator, and many more.
 
 # 📖 About
 
