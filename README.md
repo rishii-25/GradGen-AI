@@ -31,47 +31,56 @@ Whether you're creating a resume, writing a project abstract, generating present
 
 ---
 
-# ✨ Features
+# ✨ Current Features
 
-## 📄 AI Resume Generator
-Generate professional ATS-friendly resumes in seconds.
+GradGen AI currently provides a growing collection of AI-powered tools designed to simplify academics, projects, placements, and career preparation for students.
+
+### 📄 Resume & Career
+
+* 📄 AI Resume Generator
+* 💼 LinkedIn Bio Generator
+* 💌 Cover Letter Generator
+* ✅ ATS Resume Checker
+* 🎤 AI Mock Interview
+* 📈 Career Roadmap Generator
+* 🌐 Portfolio Website Generator
+
+### 📚 Academic Assistance
+
+* 📊 PPT Content Generator
+* 📝 Project Abstract Generator
+* 📁 Project Report Generator
+* 📄 PDF Summarizer
+* 📚 AI Notes Generator
+* 🧠 Quiz Generator
+* 🎯 Viva Question Generator
+* 🤖 AI Study Planner
+* 🎓 CGPA Calculator
+
+### 💻 Developer Tools
+
+* 💻 GitHub README Generator
 
 ---
 
-## 💼 LinkedIn Bio Generator
-Create impressive LinkedIn headlines and professional summaries.
+# 🚀 Development Roadmap
 
----
+GradGen AI is under active development, and new AI-powered tools are continuously being designed to make it a complete student companion. Planned enhancements include:
 
-## 📊 PPT Content Generator
-Generate well-structured presentation content for seminars, projects, and academic topics.
+* 📖 Research Paper Summarizer
+* 🔍 Literature Review Generator
+* 📑 Citation Generator (IEEE, APA, MLA)
+* 💡 Project Idea Generator
+* 📂 GitHub Repository Analyzer
+* 🖼️ AI Diagram & Flowchart Generator
+* 🧾 Assignment & Report Assistant
+* 🧮 Attendance & GPA Predictor
+* 🧠 Personalized AI Learning Assistant
+* 💬 AI Coding Assistant & Debugger
+* 📅 Smart Academic Planner & Task Manager
+* 📈 Analytics Dashboard with Student Progress Tracking
 
----
-
-## 🎯 Project Abstract Generator
-Instantly create concise and professional project abstracts.
-
----
-
-## 🎓 CGPA Calculator
-Calculate semester and cumulative CGPA with ease.
-
----
-
-# 🚀 Upcoming Features
-
-- ✅ ATS Resume Checker
-- 🎤 AI Mock Interview
-- 📚 AI Notes Generator
-- 📄 PDF Summarizer
-- 🧠 Quiz Generator
-- 💌 Cover Letter Generator
-- 📁 Project Report Generator
-- 🎯 Viva Question Generator
-- 🌐 Portfolio Website Generator
-- 💻 GitHub README Generator
-- 📈 Career Roadmap Generator
-- 🤖 AI Study Planner
+More features and improvements will be added regularly as GradGen AI evolves into a comprehensive AI toolkit for students.
 
 ---
 
@@ -101,7 +110,6 @@ Calculate semester and cumulative CGPA with ease.
 
 ✔ Fast AI-powered generation
 
----
 
 ---
 
