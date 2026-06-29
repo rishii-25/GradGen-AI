@@ -19,6 +19,14 @@ Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGP
 
 ---
 
+## 🚧 Project Status
+
+**GradGen AI is currently under active development.**
+
+The platform is continuously evolving with new AI-powered tools and features to provide engineering students with a comprehensive academic and career assistance platform. Existing functionalities are fully operational, while additional modules and enhancements are being developed and will be released in future updates.
+
+Stay tuned for upcoming features such as AI Mock Interviews, ATS Resume Checker, PDF Summarizer, Study Planner, Portfolio Generator, and many more.
+
 # 📖 About
 
 **GradGen AI** is an intelligent student productivity platform designed to simplify academics, placements, and project work using Artificial Intelligence.
