@@ -90,6 +90,7 @@ More features and improvements will be added regularly as GradGen AI evolves int
 - CSS3
 - JavaScript
 - AI APIs
+- ML
 - Responsive UI
 
 ---
