@@ -3,7 +3,7 @@
 <div align="center">
 
 ### 🚀 Your All-in-One AI Toolkit for Students
-
+![Status](https://img.shields.io/badge/Status-🚧%20Under%20Development-orange?style=for-the-badge)
 > **🚧 Note:** GradGen AI is an actively developed project. New features, UI enhancements, and AI-powered tools are continuously being added. While the current version is fully functional, this repository will be updated regularly as the platform evolves into a complete AI toolkit for students.
 
 Generate resumes, LinkedIn bios, project abstracts, presentations, calculate CGPA, and much more — all in one place.
